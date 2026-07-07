@@ -734,5 +734,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-30b2539a-aec7-4e93-b700-8fc17e11ccff.mp4",
+        "metadata": {
+            "title": "Emma Stone's Most Icon Red Carpet Looks of All Time",
+            "description": "When Emma Stone and Zac Efron sang 'Rewrite the Stars' in The Greatest Showman, the world fell in love. Her voice, her presence, that incredible aerial choreography \u2014 it was pure movie magic. The song became an instant classic and showed the world that Emma Stone wasn't just a Disney star, she was a triple threat. The Greatest Showman soundtrack spent over 100 weeks on the Billboard charts. Like if you still get chills watching this scene! \ud83c\udfb5 #emmastone #thegreatestshowman #rewritethestars #zacefron #musical #hollywood #soundtrack #emmastonesinging #viral #movieclips #emmastonefan #disney #broadwayenergy",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
