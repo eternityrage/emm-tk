@@ -1438,5 +1438,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-05ac7d23-76fc-4ba2-8f1d-7188a2571dc9.mp4",
+        "metadata": {
+            "title": "Emma Stone's Funniest Talk Show Moments Compilation",
+            "description": "Emma Stone doesn't just walk red carpets \u2014 she owns them. From her iconic Tommy Hilfiger chainmail at the Euphoria premiere to that head-turning Margiela couture at the Oscars, every look is a moment. She works with her stylist Law Roach to create fashion history every single time. The way she carries herself, the confidence, the elegance \u2014 it's unmatched. Drop a \ud83d\udd25 if you think Emma Stone is the best-dressed celebrity of our generation! #emmastone #emmastonestyle #redcarpet #fashionicon #lawroach #celebrityfashion #hollywoodstyle #emmastonefan #metgala #euphoria #spiderman #dune #challengers #fashiongoals #icon",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
