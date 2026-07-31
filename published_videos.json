@@ -1886,5 +1886,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-c5f3ff98-cdc4-40db-9256-eba9137fe75f.mp4",
+        "metadata": {
+            "title": "Emma Stone Interview Moments That Proved She's a Star",
+            "description": "Emma Stone doesn't just walk red carpets \u2014 she owns them. From her iconic Tommy Hilfiger chainmail at the Euphoria premiere to that head-turning Margiela couture at the Oscars, every look is a moment. She works with her stylist Law Roach to create fashion history every single time. The way she carries herself, the confidence, the elegance \u2014 it's unmatched. Drop a \ud83d\udd25 if you think Emma Stone is the best-dressed celebrity of our generation! #emmastone #emmastonestyle #redcarpet #fashionicon #lawroach #celebrityfashion #hollywoodstyle #emmastonefan #metgala #euphoria #spiderman #dune #challengers #fashiongoals #icon",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
